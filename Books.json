@@ -1,0 +1,99 @@
+{
+    "office ":"library BOOKS",
+      "books":[
+          {
+              "department":"cse",
+              "book":[
+                   {
+                       "name":"Thor",
+                       "PUBSHISER":"Marvel ",
+                       "YEAR":"2010",
+                       "DISC":"Thor and the people od asgaurd"
+                   },
+                   {
+                       "name":"Batman",
+                       "PUBSHISER":"DC comics",
+                       "YEAR":"2003",
+                       "DISC":"Batman the Gaudian"
+                   },
+                   {
+                       "name":"JOKER",
+                       "PUBSHISER":"DC comics",
+                       "YEAR":"2004",
+                       "DISC":"The True enemy for batman"
+                   },
+                   {
+                       "name":"Superman",
+                       "PUBSHISER":"DC comicd",
+                       "YEAR":"2005",
+                       "DISC":"The New Superhero Rise"
+                   }
+                  
+
+              ]
+          },
+          {
+             "department":"ece", 
+             "book":[
+                 
+                     {
+                       "name":"Wonder Women",
+                       "PUBSHISER":"DC comics",
+                       "YEAR":"2006",
+                       "DISC":"The Untold Story of an Princess to an gaurdian"
+                   },
+                    {
+                       "name":"X-MAN",
+                       "PUBSHISER":"Marvel",
+                       "YEAR":"2010",
+                       "DISC":"The New Mutants"
+                   },
+                    {
+                       "name":"Deadpool",
+                       "PUBSHISER":"Marvel",
+                       "YEAR":"2016",
+                       "DISC":"The Funky and Funny super hero"
+                   },
+                    {
+                       "name":"Megento",
+                       "PUBSHISER":"Marvel",
+                       "YEAR":"1998",
+                       "DISC":"The best mind game played"
+                   }
+                 
+             ]
+          },
+          {
+               "department":"mech", 
+               "book":[
+                   {
+                       "name":"Multivers of madness",
+                       "PUBSHISER":"Marvel ",
+                       "YEAR":"2020",
+                       "DISC":"The Beginning Of A Big Chaos Theory"
+                   },
+                    {
+                       "name":"Doctor Strange",
+                       "PUBSHISER":"Marvel ",
+                       "YEAR":"2016",
+                       "DISC":"Time Stone and the infinity war"
+                   },
+                    {
+                       "name":"Avengers",
+                       "PUBSHISER":"Marvel",
+                       "YEAR":"2007",
+                       "DISC":"The One big Army"
+                       
+                   },
+                    {
+                       "name":"Black Widow",
+                       "PUBSHISER":"Marvel",
+                       "YEAR":"2021",
+                       "DISC":"The Start of a new avenger"
+                   }
+                   
+               ]
+          }
+
+      ]
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+
+<!DOCTYPE BOOK_MENU SYSTEM "BookDEF.dtd">
+
+<BOOK_MENU>
+    <CATEGORY dep="cse">
+         <BOOK>
+            <NAME>Gone Girl</NAME>
+            <PUBSHISER>Crown Publishing Group </PUBSHISER>
+            <YEAR>2012</YEAR>
+            <DIS>   thriller novel by American writer Gillian Flynn  </DIS>
+        </BOOK>
+        <BOOK>
+             <NAME>Hidden Figures</NAME>
+            <PUBSHISER>Margot Lee Shetterly </PUBSHISER>
+            <YEAR>2016</YEAR>
+            <DIS> The Untold Story of the African American Women Who Helped Win the Spac </DIS>
+        </BOOK>
+        <BOOK>
+             <NAME>Murder on the Orient Express</NAME>
+            <PUBSHISER>Collins Crime Club </PUBSHISER>
+            <YEAR>1934</YEAR>
+            <DIS> Murder on the Orient Express is a work of detective fiction by English writer Agatha Christie </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>Lucifer</NAME>
+            <PUBSHISER>DC comics </PUBSHISER>
+            <YEAR>2012</YEAR>
+            <DIS>  Life about lucifer on earth  </DIS>
+        </BOOK>
+    </CATEGORY >
+
+    <CATEGORY dep="ece">
+        <BOOK>
+            <NAME>Iorn Man</NAME>
+            <PUBSHISER>Marvel comics </PUBSHISER>
+            <YEAR>2016</YEAR>
+            <DIS> The Untold Story of the Iorn man </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>DARK Blade</NAME>
+            <PUBSHISER>CHinto </PUBSHISER>
+            <YEAR> 2010</YEAR>
+            <DIS> Dark Magic blade </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>Dragula</NAME>
+            <PUBSHISER>Abc Publicatios </PUBSHISER>
+            <YEAR>1992</YEAR>
+            <DIS> the rise Dragula </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>captain america</NAME>
+            <PUBSHISER>Marvel </PUBSHISER>
+            <YEAR>2002</YEAR>
+            <DIS> american soldire  </DIS>
+        </BOOK>
+    </CATEGORY>
+
+    <CATEGORY dep="mech">
+        <BOOK>
+            <NAME>The Lord of the Rings</NAME>
+            <PUBSHISER>J. R. R. Tolkien </PUBSHISER>
+            <YEAR>29 July 1954</YEAR>
+            <DIS> The Lord of the Rings is an epic high fantasy novel by the English author and scholar
+                 J. R. R. Tolkien.
+             </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>Wanda The Scarlet Witch</NAME>
+            <PUBSHISER>Marvel </PUBSHISER>
+            <YEAR>2010</YEAR>
+            <DIS> Scarlet witch and her family  </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>Spiderman </NAME>
+            <PUBSHISER>Marvel </PUBSHISER>
+            <YEAR>2002</YEAR>
+            <DIS> adventure spiderman and his friends  </DIS>
+        </BOOK>
+        <BOOK>
+            <NAME>The Amazing Spiderman</NAME>
+            <PUBSHISER>Marvel </PUBSHISER>
+            <YEAR>2005</YEAR>
+            <DIS> the spiderman and iorn man deo  </DIS>
+        </BOOK>
+    </CATEGORY>
+</BOOK_MENU>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>19BCN7186 Nishanth</title>
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+  <div class="CONTAINER">
+    <div class="HEADING">
+
+      <h1>BOOKS JSON AND XML</h1>
+
+    </div>
+
+    <div class="BUTTONDIV">
+      <button onclick="hideXML()"> JSON</button>
+      <button onclick="hide()"> XML</button>
+    </div>
+
+
+    <div class="btn-group" id="CAT" style="width:100%">
+      <button id="all" onclick="allbooks()" style="width:25%">ALL BOOKS XML</button>
+      <button id="cse" onclick="csebooks()" style="width:25%">CSE XML</button>
+      <button id="ece" onclick="allece()" style="width:25%">ECE XML</button>
+      <button id="mech" onclick="allmech()" style="width:25%">MECH XML</button>
+    </div>
+    <div class="btn-group" id="CAT2" style="width:100%">
+      <button id="all" onclick="allbooksJSON()" style="width:25%">ALL BOOKS JSON</button>
+      <button id="cse" onclick="csebooksJSON()" style="width:25%">CSE JSON</button>
+      <button id="ece" onclick="alleceJSON()" style="width:25%">ECE JSON</button>
+      <button id="mech" onclick="allmechJSON()" style="width:25%">MECH JSON</button>
+    </div>
+
+
+
+    <div class="books" id="gridbook">
+
+    </div>
+
+
+  </div>
+
+  <script src="Ajax.js"></script>
+  <script src="JSONAJAX.js"></script>
+</body>
+
+</html>
